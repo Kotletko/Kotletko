@@ -1,5 +1,4 @@
 ### Hi there 👋
-<img width="531" alt="github__aboutMe" src="https://github.com/Kotletko/Kotletko/assets/81493680/abe82ad8-68a7-42d7-9de8-592a4afca4cd">
 <!--
 **Kotletko/Kotletko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
